@@ -52,8 +52,8 @@
    &emsp;
   <a href="#"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" width="70"> </a>
    &emsp;
-
    <a href="#"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="70"> </a>
+      &emsp;
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width=5%>  Problem Solving
   &emsp;
