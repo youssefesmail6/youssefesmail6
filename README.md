@@ -14,12 +14,12 @@
 - 👨‍💻  constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
 - 🎯My experience with :
-   C++,javascripts,Nodejs and MongoDb or related to Backend Concepts.
+   C++,javascripts,typescript,Nodejs and MongoDb or related to Backend Concepts.
 
 --- 
 ## Education 📚
 - B.S. in Computer Science from Egyptian E-learning University,2024.
-- GPA:3.62
+- GPA:3.61
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
