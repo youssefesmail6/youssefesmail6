@@ -14,7 +14,7 @@
 - 👨‍💻  constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
 - 🎯My experience with :
-   C++,javascripts,typescript,Nodejs and MongoDb or related to Backend Concepts.
+   python,javascripts,typescript,Nodejs and MongoDb or related to Backend Concepts.
 
 --- 
 ## Education 📚
